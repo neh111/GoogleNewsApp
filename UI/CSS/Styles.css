@@ -1,0 +1,48 @@
+﻿.news-topic {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#formContent {
+    display: flex;
+    flex-direction: row;
+}
+
+#newsTopics {
+    float: left; 
+}
+
+#postContainer {
+    float: right; 
+    position: relative;
+}
+
+#newsTopics a {
+    display: inline-block; 
+    max-width: 100%; 
+    word-wrap: break-word; 
+}
+#wrapDiv {
+    margin: 25px;
+}
+
+.content {
+    border: none;
+    max-width: 50%;
+    padding: 1%;
+}
+
+a {
+    color: blue;
+}
+h2 {
+    border-bottom: 2px solid black;
+}
+
+ol {
+    list-style-type: none;
+    padding-left: 0; 
+}
+.postBody {
+    display: block;
+}

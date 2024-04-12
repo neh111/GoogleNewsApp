@@ -1,0 +1,244 @@
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll.config
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.pdb
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe.config
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.rsp
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe.config
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.rsp
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Console.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe.config
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.rsp
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csprojAssemblyReference.cache
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CoreCompileInputs.cache
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CopyComplete
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.pdb
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.dll
+C:\Users\Nechami\Desktop\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.xml
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll.config
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.pdb
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe.config
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.rsp
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe.config
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.rsp
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.AppContext.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Collections.Immutable.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Console.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Http.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Sockets.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.ValueTuple.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe.config
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.rsp
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe.config
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.xml
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csprojAssemblyReference.cache
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CoreCompileInputs.cache
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CopyComplete
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.dll
+D:\גסאות פרויקט GoogleNews App\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.pdb
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll.config
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.pdb
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe.config
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.rsp
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe.config
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.rsp
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Console.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe.config
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.rsp
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.xml
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csprojAssemblyReference.cache
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CoreCompileInputs.cache
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CopyComplete
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.dll
+C:\Users\Nechami\Desktop\Complet 3\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.pdb
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll.config
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\GoogleNewsApp.pdb
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.exe.config
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csc.rsp
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.exe.config
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\csi.rsp
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.AppContext.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Console.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Http.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.exe.config
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\vbc.rsp
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Newtonsoft.Json.xml
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csprojAssemblyReference.cache
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CoreCompileInputs.cache
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.csproj.CopyComplete
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.dll
+C:\Users\Nechami\Desktop\מבחן להגשה\GoogleNewsApp project\GoogleNewsApp\GoogleNewsApp\obj\Debug\GoogleNewsApp.pdb
